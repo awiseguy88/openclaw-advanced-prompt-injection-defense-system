@@ -1,7 +1,7 @@
 # openclaw-advanced-prompt-injection-defense-system
 this is the first openclaw prompy injection defense system
 
-
+learn more here https://openclawdefense.aaronwiseai.com/
 <div align="center">
 
 # 🦞 security-prompt-guardian
@@ -502,7 +502,7 @@ Community contributions welcome. Before opening a PR:
 | Resource | Link |
 |----------|------|
 | 💳 Purchase Skill | [buy.stripe.com/14AfZgfN45iR8AfcDa6Na09](https://buy.stripe.com/14AfZgfN45iR8AfcDa6Na09) |
-| 📖 Full Sales Page | [openclaw.aaronwiseai.com/skills/security-prompt-guardian](https://openclaw.aaronwiseai.com/skills/security-prompt-guardian) |
+| 📖 Full Sales Page | [[openclaw.aaronwiseai.com/skills/security-prompt-guardian](https://openclawdefense.aaronwiseai.com/)](https://openclawdefense.aaronwiseai.com/) |
 | 🦞 OpenClaw | [openclaw.aaronwiseai.com](https://openclaw.aaronwiseai.com/) |
 | ⚡ QuickClaw Cloud | [quickclaw.aaronwiseai.com](https://quickclaw.aaronwiseai.com/) |
 | 🏢 AaronWise AI | [aaronwiseai.com](https://aaronwiseai.com/) |
